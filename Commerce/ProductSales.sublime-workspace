@@ -3,6 +3,22 @@
 	{
 		"selected_items":
 		[
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"sl",
+				"Slides1"
+			],
+			[
+				"im",
+				"images"
+			]
 		]
 	},
 	"buffers":
@@ -11,7 +27,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1200,
+				"buffer_size": 6363,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 96,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -53,6 +78,7 @@
 	},
 	"file_history":
 	[
+		"/D/Google Drive/Commerce/styles.css"
 	],
 	"find":
 	{
@@ -87,7 +113,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -96,15 +122,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1200,
+						"buffer_size": 6363,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1030,
-								1030
+								3740,
+								3740
 							]
 						],
 						"settings":
@@ -112,6 +138,34 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2744.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
